@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![superdock-arch](./superdock-arch.svg)
+![superdock-arch](https://raw.githubusercontent.com/sb-im/.github/main/profile/superdock-arch.svg)
